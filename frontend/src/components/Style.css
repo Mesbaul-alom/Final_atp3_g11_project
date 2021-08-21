@@ -1,0 +1,15 @@
+.user {
+    margin: 5px;
+    padding: 5px;
+    background-color:rgb(26, 180, 241);
+    width: 250px;
+    height: 190px;
+    border-radius: 5px;
+    border: 1px solid #000;
+}
+
+h3,
+h1,
+p {
+    margin: 0px;
+}
